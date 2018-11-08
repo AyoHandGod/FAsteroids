@@ -156,6 +156,26 @@ Prefab:
       propertyPath: m_Name
       value: Ship
       objectReference: {fileID: 0}
+    - target: {fileID: 58862442522855636, guid: a82564a37bdf8c347850e61e8d69474e,
+        type: 2}
+      propertyPath: m_Radius
+      value: 0.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 58862442522855636, guid: a82564a37bdf8c347850e61e8d69474e,
+        type: 2}
+      propertyPath: m_Offset.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 58862442522855636, guid: a82564a37bdf8c347850e61e8d69474e,
+        type: 2}
+      propertyPath: m_Offset.y
+      value: -0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 58862442522855636, guid: a82564a37bdf8c347850e61e8d69474e,
+        type: 2}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a82564a37bdf8c347850e61e8d69474e, type: 2}
   m_IsPrefabAsset: 0
